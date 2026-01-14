@@ -1,0 +1,5 @@
+Amit Kumar,85,present
+Priya Shah,92,present
+Rohit  Verma,0,absent
+Sneha123,78,present
+Vikram,100,present
